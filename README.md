@@ -5,3 +5,4 @@ Our UNIQUE SELLING PROPOSITION:
 1.Our project's unique selling proposition (USP) lies in our utilization of the local language on our website, ensuring accessibility and ease of understanding for our target audience.
 2.We differentiate ourselves by offering one-to-one consultations with gynecologists, providing personalized attention and tailored advice to address individual concerns effectively.
 3.In addition to our services, we prioritize promoting education and awareness about women's health issues through various channels, aiming to empower women  regarding their health and well-being.
+Website link:https://riya09rg.github.io/GYNIC-Vaidya/
