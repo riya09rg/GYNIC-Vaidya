@@ -1,2 +1,3 @@
 # GYNIC-Vaidya Project
- This is gynic vaidya project
+ This is gynic vaidya project by team Warriors.
+ Our project is dedicated to addressing the complexities of PCOD by providing comprehensive solutions, including personalized consultations with gynecologists. Through evidence-based recommendations,  diet plans, and lifestyle changes we aim to remove symptoms such as irregular cycles and hormonal imbalances. Additionally, our platform offers a range of health products that support women's wellness. By prioritizing accessibility through the use of local language and one to one consultation we empower individuals to take proactive steps towards managing their PCOD effectively.
