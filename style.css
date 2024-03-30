@@ -1,0 +1,327 @@
+
+*{
+    padding:0px;
+    margin:0px;
+}
+.b1{
+    /* background-color: rgb(234, 174, 183);  */
+     background-image: url("360_F_311195050_w98emGMNdW3aM24x2lOt2BUqdGUgskEf.jpg");
+    background-size: contain;  
+    
+}
+.div1{
+    height:30px;
+    width:30px  ;
+    padding:20px;
+
+    
+}
+
+#img1{
+    height: 120px;
+    width: 120px;
+}
+header{
+    width:1534px;   
+    height: 120px;
+    top:0px;
+    background-color: yellow;
+    border-bottom: 2px solid grey;
+    display: flex;
+    align-items:center;
+    justify-content: space-between; 
+    position:fixed;
+    background-image: url("WhatsApp\ Image\ 2024-03-27\ at\ 8.51.13\ PM.jpeg");
+    background-size: contain;
+}
+
+.headspace{
+    color:black;
+    font-size:25px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 20px; 
+}
+.menu{
+    font-size:20px;
+    width:300px;
+}
+
+
+.lang{
+    width:100px;
+    height:50px;
+    background-color: rgb(199, 188, 188);
+}
+
+.search-input{
+    width:100%;
+    font-size:1rem;
+    border:none;
+}
+.search-icon{
+    display: flex;
+    align-items: center;
+    width:45px;
+    font-size:1.5rem;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    color:#0F1111
+}
+.glass-icon{
+    background-color: #febd68;
+}
+.glass-icon:hover{
+    background-color:#e38d1d ;
+}
+.div3{
+  
+    display:flex;
+    height:50px;
+    width:400px; 
+}
+
+
+/* Main section 1 */
+#img2{
+    height:500px;
+    width: 800px;
+
+
+}
+.main1{
+    margin-top: 25vh;
+    display:flex;
+}
+#div5{
+    
+    align-self: center;
+}
+.main1section1{
+    font-size:30px;
+    font-family: cursive;
+}
+button{
+    background-color: #387ED1;
+    color:white;
+    border:none;
+    border-radius: 4%;
+    height:50px;
+    width:170px;
+    font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main1section2{
+    margin-top:10px;
+    text-align: center;
+}
+
+#img5{
+    height:250px;
+    width:330px;
+}
+.main6{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.text3{
+    margin-top: 40px;
+}
+.main6section1{
+    color:red;
+    font-size:35px;
+}
+.main6section2{
+    margin-top: 40px;
+    font-size: 22px;
+}
+
+.main2{
+    display: flex;
+   
+    justify-content: space-evenly;
+    margin:100px;
+    
+}
+.main2section1{
+    text-align: center;
+    height:240px;
+    width:330px;
+    background-image: url("IMG-20240329-WA0013.jpg");
+    background-size: contain;
+    border:3px solid black;
+}
+.main2section2{
+    text-align: center;
+    height:240px;
+    width:330px;
+    background-image: url("IMG-20240328-WA0037\ \(1\).jpg");
+    background-size: contain;
+    border:3px solid black;
+}
+.main3{
+    display: flex;
+    justify-content: space-evenly;
+    margin:100px;
+}
+.main3section1{
+    text-align: center;
+    height:330px;
+    width:330px;
+    background-image: url("WhatsApp\ Image\ 2024-03-27\ at\ 5.07.40\ PM.jpeg");
+    background-size: contain;
+    border:3px solid black;
+}
+.main3section2{
+    text-align: center;
+    height:330px;
+    width:330px;
+    background-image: url("WhatsApp\ Image\ 2024-03-27\ at\ 5.11.44\ PM.jpeg");
+    background-size: contain;
+    border:3px solid black;
+}
+.text2{
+    font-size: 40px;
+    font-family:cursive;
+}
+.Heading1{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif   ;
+    text-align: center;
+}
+.main4{
+    display: flex;
+   
+    justify-content: space-evenly;
+    margin:100px;
+    
+}
+.main4section1{
+    text-align: center;
+    height:300px;
+    width:330px;
+    background-image: url("WhatsApp\ Image\ 2024-03-27\ at\ 5.06.11\ PM.jpeg");
+    background-size: contain;
+    border:3px solid black;
+}
+.main4section2{
+    text-align: center;
+    height:300px;
+    width:330px;
+    background-image: url("IMG-20240329-WA0020.jpg");
+    background-size: contain;
+    border:3px solid black;
+}
+.main5{
+    display: flex;
+    justify-content: space-evenly;
+    margin:100px;
+}
+.main5section1{
+    text-align: center;
+    height:350px;
+    width:330px;
+    background-image: url("IMG-20240328-WA0039\ \(1\).jpg");
+    background-size: contain;
+    border:3px solid black;
+}
+.main5section2{
+    text-align: center;
+    height:350px;
+    width:330px;
+    background-image: url("IMG-20240328-WA0031\ \(1\).jpg");
+    background-size: contain;
+    border:3px solid black;
+}
+
+
+/* footer */
+footer{
+    border-top:2px solid rgb(200, 195, 195);
+    background-color: rgb(245, 216, 221);
+   
+}
+.footsec1{
+    margin:15px;
+}
+
+#div4{
+    
+    width:400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.img3{
+   
+    width:1000px;
+    margin-right:15px;
+}
+#text4{
+    margin-right:35px;
+}
+.text5{
+
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text6{
+     line-height: 20px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* Sidebar */
+
+.sidenav {
+    height: 100%; 
+    width: 0; 
+    position: fixed; 
+    z-index: 1; 
+    top: 0; 
+    left: 0;
+    /* background-color: rgb(235, 147, 161);  */
+    background-image: url("abstract-blur-pastel-beautiful-peach-pink-color-sky-warm-tone-background-design-as-bannerslide-show-others.jpg");
+    background-size: contain;
+    overflow-x: hidden;
+    padding-top: 60px; 
+    transition: 0.5s; 
+  }
+  
+ 
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 28px;
+    color: black;
+    display: block;
+    transition: 0.3s;
+  }
+  
+ 
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+   
+  #main {
+    transition: margin-left .5s;
+    padding: 20px;
+  }
+  
+ 
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+
+
